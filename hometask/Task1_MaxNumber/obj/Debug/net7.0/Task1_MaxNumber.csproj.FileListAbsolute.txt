@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\bin\Debug\net7.0\Task1_MaxNumber.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\bin\Debug\net7.0\Task1_MaxNumber.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\bin\Debug\net7.0\Task1_MaxNumber.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\bin\Debug\net7.0\Task1_MaxNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\bin\Debug\net7.0\Task1_MaxNumber.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\refint\Task1_MaxNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\Task1_MaxNumber.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task1_MaxNumber\obj\Debug\net7.0\ref\Task1_MaxNumber.dll
