@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\bin\Debug\net7.0\Task6_ThirdNumber.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\bin\Debug\net7.0\Task6_ThirdNumber.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\bin\Debug\net7.0\Task6_ThirdNumber.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\bin\Debug\net7.0\Task6_ThirdNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\bin\Debug\net7.0\Task6_ThirdNumber.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\refint\Task6_ThirdNumber.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\Task6_ThirdNumber.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task6_ThirdNumber\obj\Debug\net7.0\ref\Task6_ThirdNumber.dll

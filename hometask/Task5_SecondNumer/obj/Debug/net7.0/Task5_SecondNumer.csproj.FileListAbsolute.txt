@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\bin\Debug\net7.0\Task5_SecondNumer.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\bin\Debug\net7.0\Task5_SecondNumer.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\bin\Debug\net7.0\Task5_SecondNumer.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\bin\Debug\net7.0\Task5_SecondNumer.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\bin\Debug\net7.0\Task5_SecondNumer.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\refint\Task5_SecondNumer.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\Task5_SecondNumer.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task5_SecondNumer\obj\Debug\net7.0\ref\Task5_SecondNumer.dll
