@@ -36,7 +36,7 @@ bool ValidateWeekday(int number)
 int weekDay = Prompt("Введите день недели:");
 if (ValidateWeekday(weekDay));
 {
-    if (IsWeekend(weekDay));
+    if (IsWeekend(weekDay))
     {
         Console.WriteLine("Наконец-то выходной");
     }
