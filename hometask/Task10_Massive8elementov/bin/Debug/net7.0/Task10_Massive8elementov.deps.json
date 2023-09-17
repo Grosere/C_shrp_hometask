@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task10_Massive8elementov/1.0.0": {
+        "runtime": {
+          "Task10_Massive8elementov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task10_Massive8elementov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

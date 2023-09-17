@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\bin\Debug\net7.0\Task9_SummaCifrVchisle.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\bin\Debug\net7.0\Task9_SummaCifrVchisle.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\bin\Debug\net7.0\Task9_SummaCifrVchisle.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\bin\Debug\net7.0\Task9_SummaCifrVchisle.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\bin\Debug\net7.0\Task9_SummaCifrVchisle.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\refint\Task9_SummaCifrVchisle.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\Task9_SummaCifrVchisle.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task9_SummaCifrVchisle\obj\Debug\net7.0\ref\Task9_SummaCifrVchisle.dll

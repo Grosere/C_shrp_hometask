@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\bin\Debug\net7.0\Task10_Massive8elementov.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\bin\Debug\net7.0\Task10_Massive8elementov.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\bin\Debug\net7.0\Task10_Massive8elementov.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\bin\Debug\net7.0\Task10_Massive8elementov.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\bin\Debug\net7.0\Task10_Massive8elementov.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\refint\Task10_Massive8elementov.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\Task10_Massive8elementov.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task10_Massive8elementov\obj\Debug\net7.0\ref\Task10_Massive8elementov.dll

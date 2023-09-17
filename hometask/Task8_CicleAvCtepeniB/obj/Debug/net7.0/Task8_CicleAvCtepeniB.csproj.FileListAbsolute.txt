@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\bin\Debug\net7.0\Task8_CicleAvCtepeniB.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\bin\Debug\net7.0\Task8_CicleAvCtepeniB.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\bin\Debug\net7.0\Task8_CicleAvCtepeniB.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\bin\Debug\net7.0\Task8_CicleAvCtepeniB.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\bin\Debug\net7.0\Task8_CicleAvCtepeniB.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\refint\Task8_CicleAvCtepeniB.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\Task8_CicleAvCtepeniB.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task8_CicleAvCtepeniB\obj\Debug\net7.0\ref\Task8_CicleAvCtepeniB.dll
