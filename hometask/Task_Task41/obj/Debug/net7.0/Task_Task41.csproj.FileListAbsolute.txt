@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\bin\Debug\net7.0\Task_Task41.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\bin\Debug\net7.0\Task_Task41.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\bin\Debug\net7.0\Task_Task41.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\bin\Debug\net7.0\Task_Task41.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\bin\Debug\net7.0\Task_Task41.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\refint\Task_Task41.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\Task_Task41.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task_Task41\obj\Debug\net7.0\ref\Task_Task41.dll
