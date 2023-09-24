@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\bin\Debug\net7.0\Task34_ChetniyVmassive.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\bin\Debug\net7.0\Task34_ChetniyVmassive.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\bin\Debug\net7.0\Task34_ChetniyVmassive.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\bin\Debug\net7.0\Task34_ChetniyVmassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\bin\Debug\net7.0\Task34_ChetniyVmassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\refint\Task34_ChetniyVmassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\Task34_ChetniyVmassive.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task34_ChetniyVmassive\obj\Debug\net7.0\ref\Task34_ChetniyVmassive.dll

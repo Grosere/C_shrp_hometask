@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\bin\Debug\net7.0\Task36_SunnNechetnih.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\bin\Debug\net7.0\Task36_SunnNechetnih.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\bin\Debug\net7.0\Task36_SunnNechetnih.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\bin\Debug\net7.0\Task36_SunnNechetnih.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\bin\Debug\net7.0\Task36_SunnNechetnih.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\refint\Task36_SunnNechetnih.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\Task36_SunnNechetnih.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task36_SunnNechetnih\obj\Debug\net7.0\ref\Task36_SunnNechetnih.dll

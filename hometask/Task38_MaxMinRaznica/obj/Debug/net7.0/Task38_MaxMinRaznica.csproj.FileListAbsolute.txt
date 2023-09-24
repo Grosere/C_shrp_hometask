@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\bin\Debug\net7.0\Task38_MaxMinRaznica.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\bin\Debug\net7.0\Task38_MaxMinRaznica.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\bin\Debug\net7.0\Task38_MaxMinRaznica.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\bin\Debug\net7.0\Task38_MaxMinRaznica.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\bin\Debug\net7.0\Task38_MaxMinRaznica.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\refint\Task38_MaxMinRaznica.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\Task38_MaxMinRaznica.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task38_MaxMinRaznica\obj\Debug\net7.0\ref\Task38_MaxMinRaznica.dll
