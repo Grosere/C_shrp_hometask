@@ -1,0 +1,4 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task60_3-xMerniy2dMassuve\obj\Debug\net7.0\Task60_3-xMerniy2dMassuve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task60_3-xMerniy2dMassuve\obj\Debug\net7.0\Task60_3-xMerniy2dMassuve.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task60_3-xMerniy2dMassuve\obj\Debug\net7.0\Task60_3-xMerniy2dMassuve.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task60_3-xMerniy2dMassuve\obj\Debug\net7.0\Task60_3-xMerniy2dMassuve.csproj.CoreCompileInputs.cache

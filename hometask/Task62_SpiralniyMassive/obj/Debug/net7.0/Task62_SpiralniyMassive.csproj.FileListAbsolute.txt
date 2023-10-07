@@ -1,0 +1,4 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task62_SpiralniyMassive\obj\Debug\net7.0\Task62_SpiralniyMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task62_SpiralniyMassive\obj\Debug\net7.0\Task62_SpiralniyMassive.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task62_SpiralniyMassive\obj\Debug\net7.0\Task62_SpiralniyMassive.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task62_SpiralniyMassive\obj\Debug\net7.0\Task62_SpiralniyMassive.csproj.CoreCompileInputs.cache
