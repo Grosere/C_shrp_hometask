@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\bin\Debug\net7.0\Task56_PriamougolniyMassive.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\bin\Debug\net7.0\Task56_PriamougolniyMassive.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\bin\Debug\net7.0\Task56_PriamougolniyMassive.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\bin\Debug\net7.0\Task56_PriamougolniyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\bin\Debug\net7.0\Task56_PriamougolniyMassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\refint\Task56_PriamougolniyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\Task56_PriamougolniyMassive.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task56_PriamougolniyMassive\obj\Debug\net7.0\ref\Task56_PriamougolniyMassive.dll

@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\bin\Debug\net7.0\Task54_DvumernyMassive.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\bin\Debug\net7.0\Task54_DvumernyMassive.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\bin\Debug\net7.0\Task54_DvumernyMassive.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\bin\Debug\net7.0\Task54_DvumernyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\bin\Debug\net7.0\Task54_DvumernyMassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\refint\Task54_DvumernyMassive.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\Task54_DvumernyMassive.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task54_DvumernyMassive\obj\Debug\net7.0\ref\Task54_DvumernyMassive.dll

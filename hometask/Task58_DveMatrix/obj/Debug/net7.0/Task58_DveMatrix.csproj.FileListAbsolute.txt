@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\bin\Debug\net7.0\Task58_DveMatrix.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\bin\Debug\net7.0\Task58_DveMatrix.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\bin\Debug\net7.0\Task58_DveMatrix.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\bin\Debug\net7.0\Task58_DveMatrix.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\bin\Debug\net7.0\Task58_DveMatrix.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\refint\Task58_DveMatrix.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\Task58_DveMatrix.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task58_DveMatrix\obj\Debug\net7.0\ref\Task58_DveMatrix.dll
