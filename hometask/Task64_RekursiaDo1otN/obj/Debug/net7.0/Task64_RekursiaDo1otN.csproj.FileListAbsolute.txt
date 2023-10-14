@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\bin\Debug\net7.0\Task64_RekursiaDo1otN.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\bin\Debug\net7.0\Task64_RekursiaDo1otN.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\bin\Debug\net7.0\Task64_RekursiaDo1otN.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\bin\Debug\net7.0\Task64_RekursiaDo1otN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\bin\Debug\net7.0\Task64_RekursiaDo1otN.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\refint\Task64_RekursiaDo1otN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\Task64_RekursiaDo1otN.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task64_RekursiaDo1otN\obj\Debug\net7.0\ref\Task64_RekursiaDo1otN.dll

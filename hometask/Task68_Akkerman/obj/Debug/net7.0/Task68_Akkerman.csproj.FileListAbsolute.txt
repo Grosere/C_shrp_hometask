@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\bin\Debug\net7.0\Task68_Akkerman.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\bin\Debug\net7.0\Task68_Akkerman.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\bin\Debug\net7.0\Task68_Akkerman.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\bin\Debug\net7.0\Task68_Akkerman.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\bin\Debug\net7.0\Task68_Akkerman.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\refint\Task68_Akkerman.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\Task68_Akkerman.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task68_Akkerman\obj\Debug\net7.0\ref\Task68_Akkerman.dll

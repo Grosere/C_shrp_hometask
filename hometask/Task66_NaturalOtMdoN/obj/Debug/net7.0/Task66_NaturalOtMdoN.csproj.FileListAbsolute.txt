@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\bin\Debug\net7.0\Task66_NaturalOtMdoN.exe
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\bin\Debug\net7.0\Task66_NaturalOtMdoN.deps.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\bin\Debug\net7.0\Task66_NaturalOtMdoN.runtimeconfig.json
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\bin\Debug\net7.0\Task66_NaturalOtMdoN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\bin\Debug\net7.0\Task66_NaturalOtMdoN.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\refint\Task66_NaturalOtMdoN.dll
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.pdb
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\Task66_NaturalOtMdoN.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Учёба\papka\hometask\Task66_NaturalOtMdoN\obj\Debug\net7.0\ref\Task66_NaturalOtMdoN.dll
