@@ -4,3 +4,12 @@
 Пример:
 ["hello", "2", "world", ":-)"] -> ["2", ":-)"]
 */
+
+// Создание Вывода в консоль
+
+string[] Prompt(string msg)
+{
+    Console.Write(msg);
+    return Console.ReadLine().Split("; ");
+}
+
